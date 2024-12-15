@@ -1,5 +1,5 @@
 Uçuş Arama Otomasyon Testi
-Bu proje, enuygun.com web sitesinin uçuş arama ve rezervasyon sisteminin otomasyon testi için geliştirilmiştir. Proje, kullanıcıların uçuş arama, filtreleme, fiyat kontrolü ve seçim işlemlerini test etmeye yönelik olarak Cucumber ve Selenium WebDriver kullanarak yazılmıştır. Projeyi textng.xml dosyası üzerinden çalıştırabilirsiniz.
+Bu proje, enuygun.com web sitesinin uçuş arama ve rezervasyon sisteminin otomasyon testi için geliştirilmiştir. Proje, kullanıcıların uçuş arama, filtreleme, fiyat kontrolü ve seçim işlemlerini test etmeye yönelik olarak Cucumber ve Selenium WebDriver kullanarak yazılmıştır. Projeyi textng.xml dosyası üzerinden çalıştırabilirsiniz. Test raporuna testi koştuktan sonra yandaki dizinden ulaşabilirsiniz: \AutomationProject\target\cucumber-reports.html.
 
 Teknolojiler
 Java: Proje, Java programlama dilinde yazılmıştır.
